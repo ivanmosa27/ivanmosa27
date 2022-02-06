@@ -1,3 +1,8 @@
+
+<p align="left">
+  <img src="https://images8.alphacoders.com/430/thumb-1920-430830.jpg" width="1000" height="370">
+</p>
+
 ### Hi there, I'm Ivan 👋
 
 <!--
